@@ -1,0 +1,1 @@
+kalau saya pas mau run saya build dulu kayak tutorial sebelumnya, lalu directory distnya saya gitignore
